@@ -1,0 +1,8 @@
+{
+  "name": "PropTransfer South Africa",
+  "description": "An AI-powered PropTech marketplace for South Africa, automating the property transaction lifecycle from listing to bond approval and conveyancing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
